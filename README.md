@@ -1,6 +1,11 @@
 # Pataje1
 To build a great readme :smile:
 
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
 
 First Header | Second Header
 ------------ | -------------
